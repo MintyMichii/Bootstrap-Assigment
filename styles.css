@@ -1,0 +1,28 @@
+body {
+    background-color: blue;
+    float: left;
+}
+.hov:hover {
+    background-color: white;
+}
+
+div .every-third :nth-child(3n) {
+    background-color: grey;
+  
+
+}
+div {
+    border-style:groove;
+    border-color:white;
+    border-radius: 1px;
+    border-radius: 25px;
+     
+  
+    padding: 20px;
+    width: 200px;
+    height: 350px; 
+}
+#text-2 { 
+      font-size: large;
+       color: red;
+}
